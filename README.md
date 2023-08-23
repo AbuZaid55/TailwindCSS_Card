@@ -5,7 +5,7 @@ Only for Learning Purpose
 
 ## Screenshots
 
-![Screenshot_20230820_164846](https://github.com/AbuZaid55/Image_Gallery/assets/115403447/9822cca6-9479-466c-9fc0-46fe790ddf60)
+![Screenshot_20230823_064100](https://github.com/AbuZaid55/TailwindCSS_Card/assets/115403447/f34f1111-2565-4e61-bfe8-281aab4be82c)
 
 
 ## 🔗 Links
